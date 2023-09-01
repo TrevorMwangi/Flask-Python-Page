@@ -1,2 +1,2 @@
-# Flask-Python-Page
+A web app that allows users to create blog posts
  
