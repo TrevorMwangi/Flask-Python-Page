@@ -7,6 +7,7 @@ import json
 views = Blueprint('views', __name__)
 
 
+#In this section we will provide the schema for the note web app and the note to the database
 @views.route('/', methods=['GET', 'POST'])
 @login_required
 def home():
